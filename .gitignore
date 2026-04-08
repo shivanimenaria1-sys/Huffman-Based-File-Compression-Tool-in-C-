@@ -1,0 +1,8 @@
+# Compiled binary
+huffman.exe
+*.exe
+*.o
+
+# Output files (generated at runtime)
+compressed.txt
+output.txt
